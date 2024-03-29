@@ -1,11 +1,10 @@
 body {
     background-color: black;
 
-    color: white;
+    color: white;}
 
-}
 
-.img {
-   width: 20%;
-   
-}
+    .imagempessankas {
+        width: 25%;
+        text-align: center;
+    }

@@ -6,7 +6,6 @@ body {
 }
 
 .img {
-    max-width: 200px;
-    max-height: 150px;
-    text-align: center;
+   width: 20%;
+   
 }

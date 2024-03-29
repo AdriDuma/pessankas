@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+
+    color: white;
+
+}
+
+.img {
+    max-width: 200px;
+    max-height: 150px;
+    text-align: center;
+}
